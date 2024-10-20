@@ -6,5 +6,7 @@ jobs:
    steps:
     name: step_1
     run: echo "hi1111"
+    name1: step_2
+    run1: echo "hi222"
      
    
