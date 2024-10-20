@@ -1,0 +1,10 @@
+name: lab 3
+on: push
+jobs:
+ j1:
+   runs-on: ubuntu.late!
+   steps:
+    name: step_1
+    run: echo "hi1111"
+     
+   
